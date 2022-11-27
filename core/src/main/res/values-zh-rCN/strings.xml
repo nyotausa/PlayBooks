@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" tools:locale="en">
+<resources>
     <!--BookShelf-->
     <string name="current_book">当前在读</string>
     <string name="layout_grid">网格布局</string>
     <string name="layout_list">列表布局</string>
     <!-- in the book-overview the show-all button which displays all books of a category -->
-    <string name="show_all">显示全部l</string>
+    <string name="show_all">显示全部</string>
     <!--BookPlayFragment-->
     <string name="cover">封面</string>
     <string name="play_pause">播放 / 暂停</string>
@@ -23,7 +23,7 @@
     <string name="no_external_storage">外部存储器不可用.请确保外部存储器已连接且已被挂载.</string>
     <string name="no_external_storage_action_bar_title">外部存储器</string>
     <!--Dialogs-->
-    <string name="dialog_confirm">设定</string>
+    <string name="dialog_confirm">确定</string>
     <string name="dialog_cancel">取消</string>
     <string name="dialog_ok">好的</string>
     <!--EditBookDialog-->
